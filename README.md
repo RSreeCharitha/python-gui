@@ -1,1 +1,1 @@
-# todo-list-gui
+# python-gui
